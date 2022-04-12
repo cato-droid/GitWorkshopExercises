@@ -6,7 +6,7 @@ varD = 5
 
 def operation(a, b, c, d):
     result = a+b+c+d
-    return result
+    return 0
 
 def operation2(a,b):
     return a-b
