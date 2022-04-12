@@ -9,7 +9,7 @@ varD = 5
 # For partner B:
 # ret_val = (a*c +  b*c)/d
 def operation(a, b, c, d):
-    result = 0
+    result = (a*c +  b*c)/d
     return result
 
 
